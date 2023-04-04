@@ -1,6 +1,5 @@
 body {
     font-family: arial, sans-serif;
-    padding: 20px auto;
 }
 
 h1 {
@@ -37,15 +36,13 @@ li:first-letter {
 }
 
 .weather-app {
-    padding: 30px auto;
+    padding: 20px;
     border: 1px solid #dadde1;
     border-radius: 5px;
-    margin: 20px;
 }
 
 .overview {
     margin-bottom: 20px;
-
 }
 
 .weather-temperature img {
@@ -63,7 +60,7 @@ li:first-letter {
 
 .weather-temperature .units {
     position: relative;
-    font-size: 21px;
+    font-size: 16px;
     top: -34px;
 }
 
